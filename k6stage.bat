@@ -1,0 +1,1 @@
+k6 run C:\Performance\projects\K6\CloudConfigurationModule\DirectInput_v3\DI_main.js -u 1 -i 1
